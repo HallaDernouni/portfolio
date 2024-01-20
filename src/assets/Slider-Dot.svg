@@ -1,0 +1,9 @@
+<svg width="150" height="10" viewBox="0 0 150 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Slider Dot">
+<rect id="5" x="140" y="10" width="10" height="10" rx="5" transform="rotate(-90 140 10)" fill="white"/>
+<rect id="4" x="110" y="10" width="10" height="10" rx="5" transform="rotate(-90 110 10)" fill="white"/>
+<rect id="3" x="80" y="10" width="10" height="10" rx="5" transform="rotate(-90 80 10)" fill="white"/>
+<rect id="2" x="50" y="10" width="10" height="10" rx="5" transform="rotate(-90 50 10)" fill="white"/>
+<rect id="1" y="10" width="10" height="30" rx="5" transform="rotate(-90 0 10)" fill="#505050"/>
+</g>
+</svg>
